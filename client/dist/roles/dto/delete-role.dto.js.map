@@ -1,0 +1,1 @@
+{"version":3,"file":"delete-role.dto.js","sourceRoot":"","sources":["../../../src/roles/dto/delete-role.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA4C;AAC5C,qDAAyC;AAEzC,MAAa,aAAa;CAIzB;AADG;IAFC,IAAA,qBAAW,EAAC,EAAC,OAAO,EAAE,MAAM,EAAE,WAAW,EAAE,eAAe,EAAC,CAAC;IAC5D,IAAA,0BAAQ,EAAC,EAAC,OAAO,EAAE,qBAAqB,EAAC,CAAC;;4CACpB;AAH3B,sCAIC"}
